@@ -1,2 +1,73 @@
-[00:03:02]: [Join Announcement] Native
-[00:03:26]: [Leave Announcement] Native
+[00:03:26]: [Join Announcement] Native
+[00:07:07]: [Join Announcement] lockon
+[00:08:48]: [Vote Announcement] rollback passed
+[00:09:16]: [Join Announcement] lockon
+[00:09:20]: [Join Announcement] Native
+[00:13:24]: [Say] (KU_dNpFm4eM) Native: 天亮去找你
+[00:13:36]: [Say] (KU_dNpFm4eM) Native: 你过来了吗 ？
+[00:16:20]: [Leave Announcement] Native
+[00:17:25]: [Join Announcement] Native
+[00:21:34]: [Death Announcement] Native 死于： 中暑。他变成了可怕的鬼魂！
+[00:21:39]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[00:21:40]: [Resurrect Announcement] Native 复活自： resurrect.
+[00:21:52]: [Death Announcement] Native 死于： 黑暗。他变成了可怕的鬼魂！
+[00:23:21]: [Death Announcement] lockon 死于： 眼球草。她变成了可怕的鬼魂！
+[00:23:37]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[00:23:38]: [Resurrect Announcement] Native 复活自： resurrect.
+[00:23:54]: [Say] (KU_J0QwJUiK) lockon: #resurrect
+[00:23:55]: [Resurrect Announcement] lockon 复活自： resurrect.
+[00:24:46]: [Death Announcement] lockon 死于： 眼球草。她变成了可怕的鬼魂！
+[00:25:09]: [Say] (KU_J0QwJUiK) lockon: #resurrect
+[00:25:10]: [Resurrect Announcement] lockon 复活自： resurrect.
+[00:25:47]: [Vote Announcement] rollback passed
+[00:26:15]: [Join Announcement] lockon
+[00:26:20]: [Join Announcement] Native
+[00:26:35]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[00:26:36]: [Resurrect Announcement] Native 复活自： resurrect.
+[00:26:43]: [Say] (KU_J0QwJUiK) lockon: #resurrect
+[00:26:44]: [Resurrect Announcement] lockon 复活自： resurrect.
+[00:27:01]: [Vote Announcement] rollback passed
+[00:27:30]: [Join Announcement] lockon
+[00:27:34]: [Join Announcement] Native
+[00:28:22]: [Join Announcement] lockon
+[00:28:27]: [Join Announcement] Native
+[00:41:37]: [Death Announcement] Native 死于： 中暑。他变成了可怕的鬼魂！
+[00:41:40]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[00:41:41]: [Resurrect Announcement] Native 复活自： resurrect.
+[00:42:48]: [Death Announcement] Native 死于： 猎犬。他变成了可怕的鬼魂！
+[00:42:53]: [Say] (KU_dNpFm4eM) Native: #resurrectr
+[00:43:11]: [Vote Announcement] rollback passed
+[00:43:39]: [Join Announcement] lockon
+[00:43:43]: [Join Announcement] Native
+[00:47:46]: [Skin Announcement] Native legs_wortox_victorian
+[00:49:46]: [Death Announcement] Native 死于： 猎犬。他变成了可怕的鬼魂！
+[00:49:56]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[00:49:57]: [Resurrect Announcement] Native 复活自： resurrect.
+[00:56:40]: [Skin Announcement] lockon body_trimmed_blouse_green_celadon
+[01:04:40]: [Death Announcement] Native 死于： 青蛙。他变成了可怕的鬼魂！
+[01:04:43]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[01:04:44]: [Resurrect Announcement] Native 复活自： resurrect.
+[01:12:12]: [Death Announcement] Native 死于： 中暑。他变成了可怕的鬼魂！
+[01:12:28]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[01:12:29]: [Resurrect Announcement] Native 复活自： resurrect.
+[01:18:31]: [Death Announcement] Native 死于： 蜘蛛战士。他变成了可怕的鬼魂！
+[01:18:39]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[01:18:40]: [Resurrect Announcement] Native 复活自： resurrect.
+[02:04:34]: [Death Announcement] Native 死于： 饥饿。他变成了可怕的鬼魂！
+[02:04:37]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[02:04:38]: [Resurrect Announcement] Native 复活自： resurrect.
+[02:05:52]: [Death Announcement] Native 死于： 红色猎犬。他变成了可怕的鬼魂！
+[02:06:03]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[02:06:04]: [Resurrect Announcement] Native 复活自： resurrect.
+[02:06:20]: [Death Announcement] Native 死于： 红色猎犬。他变成了可怕的鬼魂！
+[02:06:25]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[02:06:26]: [Resurrect Announcement] Native 复活自： resurrect.
+[02:08:05]: [Death Announcement] Native 死于： 猎犬。他变成了可怕的鬼魂！
+[02:08:07]: [Say] (KU_dNpFm4eM) Native: #resurrect
+[02:08:08]: [Resurrect Announcement] Native 复活自： resurrect.
+[02:09:23]: [Skin Announcement] lockon body_wendy_ice
+[02:09:25]: [Skin Announcement] Native hand_wickerbottom_ice
+[02:28:02]: [Leave Announcement] Native
+[02:28:04]: [Leave Announcement] lockon
+[11:15:42]: [Join Announcement] Native
+[11:16:23]: [Leave Announcement] Native
