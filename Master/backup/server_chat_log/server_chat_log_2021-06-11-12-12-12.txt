@@ -1,0 +1,6 @@
+[00:03:26]: [Join Announcement] Native
+[00:07:07]: [Join Announcement] lockon
+[00:08:48]: [Vote Announcement] rollback passed
+[00:09:16]: [Join Announcement] lockon
+[00:09:20]: [Join Announcement] Native
+[00:13:24]: [Say] (KU_dNpFm4eM) Native: 
